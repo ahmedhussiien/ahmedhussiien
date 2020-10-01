@@ -5,10 +5,8 @@ This is the place where I opensource projects and break stuff!!
 ![Alt Text](https://github.com/ahmedhussiien/ahmedhussiien/blob/master/coding_cat.gif)
 
 
-- 🔭 I’m currently working on software engineering projects for AI-Enabled systems
-- 🌱 I’m currently learning data engineering tools.
 
-
+### Connect with me 🤝🏻
 <a href="https://www.linkedin.com/in/ahmedhussiien/">
   <img src="https://img.shields.io/badge/-ahmedhussiien-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedhussiien/" alt="LinkedIn profile">
 </a> <a href="mailto:ahmedhussiien@gmail.com">
